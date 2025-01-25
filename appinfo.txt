@@ -1,0 +1,6 @@
+About the Application:
+This application is a market prediction tool that helps users predict trends in stock markets.
+Version: 1.0.0
+Created by: Lavnia Ionel
+Date: 2025-01-26
+
